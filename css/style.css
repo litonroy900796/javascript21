@@ -1,0 +1,21 @@
+.mulltiple-from{
+    width: 500px;
+    margin: 0 auto;
+    border: 1px solid #6666;
+    padding: 20px 30px;
+}
+.mulltiple-from button{
+    background-color: tomato;
+    color: white;
+    margin-top: 15px;
+}
+.from2 ,.from3{
+  display: none;
+}
+
+.show{
+    display: block !important;
+}
+.hidden{
+    display: none !important;
+}
